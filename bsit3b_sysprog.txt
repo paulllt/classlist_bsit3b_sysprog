@@ -1,7 +1,6 @@
 NUMBER	FIRSTNAME	LASTNAME	MIDDLEINITIAL
 			
-1	Aleli	Tito	A.
-2	Ryan	Banta	H.
-3	Junard	Virtudez	A.
-4	Myrene	Toledo	F.
-5	Renniel Jay	Ramos	R.
+1	Ryan	Banta	H.
+2	Junard	Virtudez	A.
+3	Myrene	Toledo	F.
+4	Renniel Jay	Ramos	R.
