@@ -1,19 +1,20 @@
-NUMBER	FIRSTNAME	LASTNAME	MIDDLEINITIAL
-			
-1	Ryan	Banta	H.
-2	Junard	Virtudez	A.
-3	Myrene	Toledo	F.
-4	Renniel Jay	Ramos	R.
-5	Acemark	Casumpang	M.
-6	Jinky	Delfin	R.
-7	Jayson	Valdez	P.
-8	Reynaldo	Gundran	G.
-9	Kurt John	Corbe	P.
-10	Odessa 	Santiago	B.
-11	Salvador Jr	Guyong	L.
-12	Arlene	Ilarde	B.
-13	Brian James	Hipolito	B.
-14	Rusell	Mallanao	C.
-15	Gian Vincent	Torio	P.
-16	Rosalyn 	Bulusan	S.
-17	Ej Christopher	Guiab	
+NUMBER	FIRSTNAME	LASTNAME	MIDDLEINITIAL	
+				
+1	Ryan	Banta	H.	
+2	Junard	Virtudez	A.	
+3	Myrene	Toledo	F.	
+4	Renniel Jay	Ramos	R.	
+5	Acemark	Casumpang	M.	
+6	Jinky	Delfin	R.	
+7	Jayson	Valdez	P.	
+8	Reynaldo	Gundran	G.	
+9	Kurt John	Corbe	P.	
+10	Odessa 	Santiago	B.	
+11	Salvador Jr	Guyong	L.	
+12	Arlene	Ilarde	B.	
+13	Brian James	Hipolito	B.	
+14	Rusell	Mallanao	C.	
+15	Gian Vincent	Torio	P.	
+16	Rosalyn 	Bulusan	S.	
+17	Ej Christopher	Guiab		-1
+18	Joy 	Balicwadang	D.	
